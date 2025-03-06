@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Côté public on Les Jetés De L&#39;Encre</title>
+    <link>http://localhost:1313/infospublic/</link>
+    <description>Recent content in Côté public on Les Jetés De L&#39;Encre</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/infospublic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/infospublic/caveauxjetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/infospublic/caveauxjetes/</guid>
+      <description>&lt;h1 id=&#34;la-cave-aux-jetés&#34;&gt;La cave aux jetés&lt;/h1&gt;&#xA;&lt;p&gt;En 2020, nous avons aménagé une cave à Paris dans&#xA;le 18 ème arrondissement. Elle comprend deux pièces&#xA;la première avec un bar et des dessertes permettant&#xA;de poser plateaux et assiettes  pour le repas. La deuxième pièce contient 8 tables bistrots et ses chaises le plus souvent assemblées en une grande table commune.&lt;/p&gt;&#xA;&lt;p&gt;Nous avons coutume de manger en début de soirée puis  nous chantons les chansons des jetés de l&amp;rsquo;Encre.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

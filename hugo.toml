@@ -1,0 +1,30 @@
+baseURL = 'https://www.lesjetesdelencre.com/'
+languageCode = 'fr'
+title = "Les Jetés De L'Encre"
+theme = 'ananke'
+text_color = "green"
+[params]
+    subtile = "Chansons écrites à l'encre douce"
+[params.contact]
+    email = 'contact@lesjetesdelencre.com'
+    phone = '060 706 55'
+copyright = 'Creative Common NC SA'
+
+[menus]
+  [[menus.main]]
+    name = 'Dates'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Chansons'
+    pageRef = '/chansons'
+    weight = 20
+  [[menus.main]]
+    name = 'Info public'
+    pageRef = '/infospublic'
+    weight = 30
+  [[menus.main]]
+    name = 'Infos pro'
+    pageRef = '/infospro'
+    weight = 40
+
