@@ -1,7 +1,7 @@
 baseURL = 'https://www.lesjetesdelencre.com/'
 languageCode = 'fr'
 title = "Les Jetés De L'Encre"
-theme = 'ananke'
+theme = ['modifs','ananke']
 text_color = "green"
 [params]
     subtile = "Chansons écrites à l'encre douce"
@@ -13,11 +13,11 @@ copyright = 'Creative Common NC SA'
 [menus]
   [[menus.main]]
     name = 'Dates'
-    pageRef = '/'
+    pageRef = '/Dates'
     weight = 10
   [[menus.main]]
     name = 'Chansons'
-    pageRef = '/chansons'
+    pageRef = '/Chansons'
     weight = 20
   [[menus.main]]
     name = 'Info public'

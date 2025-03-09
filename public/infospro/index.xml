@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infosproes on Les Jetés De L&#39;Encre</title>
+    <link>http://localhost:1313/infospro/</link>
+    <description>Recent content in Infosproes on Les Jetés De L&#39;Encre</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 07 Mar 2025 14:28:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/infospro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les musiciens</title>
+      <link>http://localhost:1313/infospro/lesmusiciens/</link>
+      <pubDate>Fri, 07 Mar 2025 14:28:07 +0100</pubDate>
+      <guid>http://localhost:1313/infospro/lesmusiciens/</guid>
+      <description>&lt;h1 id=&#34;gilles-maire&#34;&gt;Gilles Maire&lt;/h1&gt;&#xA;&lt;p&gt;Gilles écrit les textes et la plupart des musiques, il assure une interprétation passionnée&#xA;derrière sa guitare ou même sans son instrument.&#xA;Il joue &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/infospro/gillespresentation.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;en pompes manouches et en pompes noires toujours impeccablement cirées.&#xA;Il peut chanter seul sans ses accompagnateurs, défi qu&amp;rsquo;il relève de temps à autres,&#xA;mais c&amp;rsquo;est en bande qu&amp;rsquo;il préfère assurer ses concerts.&#xA;Gilles a fondé le groupe en 2006 et il a assuré près de 900 concerts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

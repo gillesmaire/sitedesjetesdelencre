@@ -1,7 +1,6 @@
 +++
 date = '2025-03-06T21:56:32+01:00'
 draft = true
-title = 'Côté public'
 +++
 
 

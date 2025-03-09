@@ -6,14 +6,28 @@
     <description>Recent content in Côté public on Les Jetés De L&#39;Encre</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 21:56:32 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/infospublic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/infospublic/date/</link>
+      <pubDate>Thu, 06 Mar 2025 21:56:32 +0100</pubDate>
+      <guid>http://localhost:1313/infospublic/date/</guid>
+      <description>&lt;h1 id=&#34;prochains-concerts&#34;&gt;Prochains concerts&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Jeudi 13 mars 2025&lt;/strong&gt; à partir de 19h3o La cave aux jetés&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Jeudi 10 avril 2025&lt;/strong&gt; à partir de 19h3o La cave aux jetés&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dimanche 18 mai 2025&lt;/strong&gt; Après midi Pierrick&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Jeudi 22 mai 2025&lt;/strong&gt; à partir de 19h3o La cave aux jetés&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vendredi 23 mai 2025&lt;/strong&gt; 19hoo Le Mulet Blanc 20, rue de la Rodade Montferrand 63100&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Samedi 14 juin 2025&lt;/strong&gt; 20hoo Journée chanson Salle des fêtes de Castellet du Luberon.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;la-cave-des-jetés&#34;&gt;La cave des jetés&lt;/h1&gt;&#xA;&lt;p&gt;Vous pouvez retrouver &lt;a href=&#34;http://localhost:1313/infospublic/caveauxjetes&#34;&gt;ici&lt;/a&gt; la fabuleuse histoire&#xA;de la cave aux jetés ainsi que le déroulemennt des soirées.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/infospublic/caveauxjetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/infospublic/caveauxjetes/</guid>
-      <description>&lt;h1 id=&#34;la-cave-aux-jetés&#34;&gt;La cave aux jetés&lt;/h1&gt;&#xA;&lt;p&gt;En 2020, nous avons aménagé une cave à Paris dans&#xA;le 18 ème arrondissement. Elle comprend deux pièces&#xA;la première avec un bar et des dessertes permettant&#xA;de poser plateaux et assiettes  pour le repas. La deuxième pièce contient 8 tables bistrots et ses chaises le plus souvent assemblées en une grande table commune.&lt;/p&gt;&#xA;&lt;p&gt;Nous avons coutume de manger en début de soirée puis  nous chantons les chansons des jetés de l&amp;rsquo;Encre.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;la-cave-aux-jetés&#34;&gt;La cave aux jetés&lt;/h1&gt;&#xA;&lt;p&gt;En 2020, nous avons aménagé une cave à Paris dans&#xA;le 18 ème arrondissement. Elle comprend deux pièces&#xA;la première avec un bar et des dessertes permettant&#xA;de poser plateaux et assiettes  pour le repas.&#xA;La deuxième pièce contient huit tables bistrots&#xA;et ses chaises le plus souvent assemblées en une&#xA;grande table commune.&lt;/p&gt;&#xA;&lt;p&gt;Nous avons coutume de manger en début de soirée puis&#xA;nous chantons les chansons des jetés de l&amp;rsquo;Encre.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/infospublic/chansons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/infospublic/chansons/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
